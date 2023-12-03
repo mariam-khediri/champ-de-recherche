@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="mot">Indiquer le mot a rechercher !</string>
+</resources>
